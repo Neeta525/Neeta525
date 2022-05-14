@@ -1,7 +1,7 @@
 Hi 👋 My name is Anita Chavez
 =============================
 
-Sr. Digital Engineer
+Sr. Digital Media Engineer
 --------------------
 
 Part of my job is maintaining and updating our website. Learning full stack web development is going to help me improve the skills I have and help me become better at my job. The other part of my job is setting up for audio/visual events around the district and videography.
