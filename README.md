@@ -9,7 +9,7 @@ Part of my job is maintaining and updating our website. Learning full stack web 
 * 🌍  I'm based in New Mexico
 * 🖥️  See my portfolio at [My Portfolio](http://neeta525.github.io/Portfolio25/)
 * ✉️  You can contact me at [starry-days@hotmail.com](mailto:starry-days@hotmail.com)
-* 🧠  I'm learning Learning back-end web dev
+* 🧠  I'm currently learning back-end web dev
 * 🤝  I'm open to collaborating on my homework assignments
 * ⚡  I'm into 🚵‍♀️, 🏊‍♀️, ⛰️,⚒️, 🎨, ✍️, 🙃
 
