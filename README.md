@@ -7,9 +7,9 @@ Sr. Digital Media Engineer
 Part of my job is maintaining and updating our website. Learning full stack web development is going to help me improve the skills I have and help me become better at my job. The other part of my job is setting up for audio/visual events around the district and videography.
 
 * 🌍  I'm based in New Mexico
-* 🖥️  See my portfolio at [My Portfolio](http://neeta525.github.io/Portfolio25/)
+* 🖥️  See my portfolio at [My Portfolio](https://neeta525.github.io/Professional_Portfolio_React/#Resume)
 * ✉️  You can contact me at [starry-days@hotmail.com](mailto:starry-days@hotmail.com)
-* 🧠  I'm currently learning back-end web dev
+* 🧠  I'm currently learning full-stack web dev
 * 🤝  I'm open to collaborating on my homework assignments
 * ⚡  I'm into 🚵‍♀️, 🏊‍♀️, ⛰️,⚒️, 🎨, ✍️, 🙃
 
