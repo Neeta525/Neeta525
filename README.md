@@ -4,7 +4,7 @@ Hi 👋 My name is Anita Chavez
 Sr. Digital Media Engineer
 --------------------
 
-Part of my job is maintaining and updating our website and building a completely new website which will be deployed soon. The other part of my job is setting up for audio/visual events around the district and videography. 
+Part of my job is maintaining and updating our [website](https://www.carlsbadschools.net/). The other part of my job is setting up for audio/visual events around the district and videography.
 
 * 🌍  I'm based in New Mexico
 * 🖥️  See my portfolio at [My Portfolio](https://neeta525.github.io/Professional_Portfolio_React/#Resume)
